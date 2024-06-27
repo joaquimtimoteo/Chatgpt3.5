@@ -45,10 +45,17 @@ const Home: React.FC = () => {
                                 <input type="password" name='password' placeholder='Password' className='bg-gray-100 outline-none text-sm 
                                 flex-1' />
                             </div>
-                            <div className='flex w-64 mb-5'>
+                            <div className='flex  justify-between w-64 mb-5'>
+                               <label className='flex items-center text-xs'>
+                                <input type="checkbox"  name='remember' className='mr-1'/>Remember password
+                               </label>
+                               <a href="#" className='text-xs'>Forget password</a>
+                            </div> 
+
+                            <a href="#" className='border-2 border-blue-500 text-blue-500 rounded-full px-12 py-2 inline-block font-semibold hover:bg-blue-500
+                     hover:text-white'>Registrar</a>
 
                             </div>
-                        </div>
                     </div>
                     </div>
 
