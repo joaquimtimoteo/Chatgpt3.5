@@ -5,8 +5,8 @@
 /.pnp
 .pnp.js
 .yarn/install-state.gz
-.app
-
+./pnp api
+.api
 # testing
 /coverage
 /.app
