@@ -122,7 +122,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 - **Name:** Joaquim Timóteo
-- **Email:** joaquim@example.com
+- **Email:** joaquimcarltimoteo@gmail.com
 - **GitHub:** [github.com/joaquimtimoteo](https://github.com/joaquimtimoteo)
 - **LinkedIn:** [linkedin.com/in/joaquimtimoteo](https://linkedin.com/in/joaquimtimoteo)
 
