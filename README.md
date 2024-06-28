@@ -1,6 +1,6 @@
-# ChatGPT 3.5
+# ChatGenius 3.5
 
-Welcome to **ChatGPT 3.5**, a custom virtual assistant powered by OpenAI's GPT-3.5 model. This project showcases advanced AI capabilities integrated with modern web technologies.
+Welcome to **ChatGenius 3.5**, a custom virtual assistant powered by OpenAI's GPT-3.5 model. This project showcases advanced AI capabilities integrated with modern web technologies.
 
 ## Technologies Used
 
